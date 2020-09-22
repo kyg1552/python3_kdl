@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: hrl-geom
+Version: 0.1.0
+Summary: Contains pose_converter, a set of Python scripts which automatically
+      detect the type of the input position/orientation pose and allows
+      you to convert to any of the other types in a sing...
+Home-page: http://ros.org/wiki/hrl_geom
+Author: Kelsey Hawkins
+Author-email: kphawkins@gatech.edu
+Maintainer: Kelsey Hawkins
+Maintainer-email: kphawkins@gatech.edu
+License: BSD
+Platform: UNKNOWN
+
+Contains pose_converter, a set of Python scripts which automatically
+detect the type of the input position/orientation pose and allows
+you to convert to any of the other types in a single call.  Also contains
+a copy of transformations.py
+
